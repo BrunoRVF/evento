@@ -81,4 +81,75 @@ html {
 
     }
 
+    .Organizadores img {
+        width: 150px;
+        height: auto;
+        border-style: none;
+        border-radius: 100px;
+    }
+
+    .Organizadores {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .persona1 {
+        border: grey 2px;
+        border-style: solid ;
+        width: 245px;
+        height: auto ;
+        border-radius: 10px;
+    }
+
+    .contenedor-persona1 {
+        padding-left: 50px;
+        margin-top: 25px;
+    }
+
+    .persona2 {
+        border: grey 2px;
+        border-style: solid ;
+        width: 245px;
+        height: auto ;
+        border-radius: 10px;
+    }
+
+    .contenedor-persona2 {
+        padding-left: 50px;
+        margin-top: 25px;
+        
+    }
+
+    .persona3 {
+        border: grey 2px;
+        border-style: solid ;
+        width: 245px;
+        height: auto ;
+        border-radius: 10px;
+    }
+
+    .contenedor-persona3 {
+        padding-left: 50px;
+        margin-top: 25px;
+    }
+
+    .Produccion h2 {
+        padding-left: 570px;
+    }
+
+    footer {
+        background-color: black;
+        display: flex;
+        justify-content: space-around;
+        
+    }
+    footer img {
+        width: 100px;
+        height: auto;
+    }
+
+
+=======
+
+
     
